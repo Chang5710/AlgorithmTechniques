@@ -4,7 +4,7 @@
 Recursive Formula : 
                 0  if i == 0 or j == 0
 napsack(i,j) =  napsack(i-1 , j) , elif w[i] > j
-                max(v[i] + napsack(i-1,j-w[i]) , napsack(i-1 , j)  , else 
+                max(  v[i] + napsack(i-1, j-w[i]) , napsack(i-1 , j)  ) else 
 
 
 ```
