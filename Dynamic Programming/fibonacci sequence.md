@@ -4,8 +4,8 @@
 Recursive Formula : 
 
 fib(n) = 0 if n=0 
-		 1 if n=1 
-		 fib(n-1) + fib(n-2) else
+	 1 if n=1 
+	 fib(n-1) + fib(n-2) else
 
 
 ```
